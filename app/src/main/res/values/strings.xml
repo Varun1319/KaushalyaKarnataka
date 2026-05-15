@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kaushalya Karnataka</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="ai_builder">AI Builder</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="hire_me">Hire Me</string>
+    <string name="profile">Profile</string>
+    <string name="services">Services</string>
+    <string name="gallery">Gallery</string>
+    <string name="reviews">Reviews</string>
+    <string name="available">Available</string>
+    <string name="busy">Busy</string>
+    <string name="build_profile_ai">Build My Profile with AI</string>
+    <string name="generate_bio">Generate Bio</string>
+    <string name="save_to_profile">Save to Profile</string>
+    <string name="add_service">Add Service</string>
+    <string name="leave_review">Leave a Review</string>
+</resources>
